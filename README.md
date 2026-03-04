@@ -1,5 +1,15 @@
-### A2T META DATABASE
+# A2T DATABASE
 
-META DATABASE OFFLINE DÀNH CHO CYBERFOIL VÀ TINFOIL A2T
-ĐƯỢC CẬP NHẬP HẰNG NGÀY - TỰ ĐỘNG UPDATE
-KÈM ICON + TITLE VIỆT HOÁ
+## NX-META DATABASE OFFLINE 
+
+Vui lòng quay lại xem bài viết này [A2T APP](https://github.com/tuannahh/A2T)
+
+
+## CÁCH SỬ DỤNG
+Nó sẽ tự động liên kết tới app và trả kết quả khi có bản cập nhập DB mới nhất.
+
+User chỉ cần ấn cập nhập trên APP và mọi thứ sẽ tự chạy!
+
+## LIÊN HỆ TÔI
+
+[TYANX](https://www.facebook.com/ttuannahh/)
